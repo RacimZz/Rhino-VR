@@ -17,4 +17,4 @@ Use cases highlighting how the integration can be utilized in real-world scenari
 Each video is designed to provide a clear understanding of how the plugin operates and the potential it holds for designers, architects, and developers working in the field of 3D modeling and VR.
 
 # Usage
-Feel free to explore the videos to get insights into the plugin's capabilities. For those interested in the technical details or in contributing to the project, please refer to the main code repository [here](https://racimzz.github.io/Rhino-VR/).
+Feel free to explore the videos to get insights into the plugin's capabilities. For those interested in the technical details or in contributing to the project, please refer to the main code repository [here](https://racimzz.github.io/Rhino-VR/GIF.html).
