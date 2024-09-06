@@ -51,7 +51,7 @@ Then, start the client from Unity's editor or a build.
 
 For the controllers, we use four main buttons: __PrimaryButton__, __SecondaryButton__, __Grip__, and __Trigger__. These buttons are set up to manage input actions for two types of controllers: the __HTC VIVE__ and the __XR Controller__.
 
-### Primary Button (HTC VIVE Pad)
+### Primary Button 
 <img src="./mp4video/primaryButton.PNG" alt="Primary Button" width="300"/>
 
 ### Secondary Button
