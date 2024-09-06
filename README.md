@@ -8,8 +8,6 @@ Visualize and interact with complex 3D models in a virtual reality setting.
 Simulate real-time changes and interactions with Rhino models directly in Unity.
 Explore design possibilities in an immersive environment that enhances spatial understanding and decision-making.
 
-![](./mp4video/polyline.mp4)
-
 # Content
 This repository contains a series of video simulations that showcase:
 
