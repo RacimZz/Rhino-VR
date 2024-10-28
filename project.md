@@ -35,11 +35,11 @@ Using Unity's "Input System" and "XR Interaction Toolkit", you can easily add ne
 
 Then, you can add your headset in the project settings under __Edit > Project Settings > XR Plug-in Management > OpenXR__, and add your headset profile to the list:
 
-![](./mp4video/AddProfile.mp4)
+[###Ajout de profi](https://drive.google.com/file/d/1RbFFQmMRAgZHLtS6iPNbCjkMNLoqtfv7/view?usp=drive_link)
 
 Finally, you can modify (and assign new actions to) the mappings for ___Input Actions___. In the __Assets/Actions/__ folder, you can find and add __Input Actions__, which contain __Action Maps__. Each __Action Map__ holds several actions, and each action can be linked to multiple inputs. By specifying the input type (button, Vector2, etc.), you can easily set up new devices and interactions:
 <!--- video -->
-![](./mp4video/Binding.mp4)
+[###Binding](https://drive.google.com/file/d/1FPZD9gTqS82LNg0Joaxwhpv6sZ9PdPFw/view?usp=drive_link)
 
 ## Using the VR Client Interface
 
@@ -72,7 +72,7 @@ The main action button is the primary button on the left controller (X on Oculus
 
 You can project selected points onto a plane using the __trigger__ on the __right controller__. A red plane will appear in the direction of the controller. Planes are positioned at fixed points, and if the controller's ray intersects a mesh triangle, the projection plane aligns with that triangle's normal.
 
-![](./mp4video/MenuVr.mp4)
+[###Menu VR](https://drive.google.com/file/d/1iMuHPYhMV0UtkuCd-iqXt-MND1mLCsfY/view?usp=drive_link)
 
 ### Extrusion and Moving a Vertex
 
@@ -80,7 +80,7 @@ To perform an extrusion, select the corresponding object in the VR menu, then us
 
 To move a vertex, select the __MoveVertex__ option in the VR menu. A red sphere will appear on the vertex targeted by the ray, previewing the selection. Start moving the vertex with the __Primary Button__ and confirm the move by pressing the same button again.
 
-![](./mp4video/ExtrudeMoveVertex.mp4)
+[###Move Vertex](https://drive.google.com/file/d/1H4LCaLozKJeHXJGUOiRw5ek8bcHc9jZ_/view?usp=drive_link)
 
 ### Moving and Deleting an Object
 
@@ -88,7 +88,7 @@ To move an object, first select the object by clicking the far-left arrow. Then,
 
 To delete an object, click the cross, then use the __Primary Button__ to select the object to delete. The object will disappear immediately.
 
-![](./mp4video/Move-Delete.mp4)
+[###Move & Delete](https://drive.google.com/file/d/14cLRtTlRTvbC-_w79cniaVaKWNwFcgfk/view?usp=drive_link)
 
 ### Intersection Between a Box and a Sphere
 
@@ -96,13 +96,13 @@ First, create both objects (a sphere and a box) by selecting the corresponding g
 
 To compute the intersection of the two objects, select the game object representing the two converging arrows, then click both objects using the __Primary Button__. The intersection of the two objects will be displayed.
 
-![](./mp4video/Sphere-Intersection.mp4)
+[###Sphere & Intersection](https://drive.google.com/file/d/1RYH-cgUsWPKIStfQ9jmh0NShnYJDaIgk/view?usp=drive_link)
 
 ### Merging and Moving the Resulting Object
 
 To merge two objects (e.g., two spheres), click both objects with the __Primary Button__. After merging, they will form a single object. When you move this merged object, the two spheres will move together.
 
-![](./mp4video/Union_-_Move.mp4)
+[###Union & Move](https://drive.google.com/file/d/1QgYaYufXKhonTqmt-So3fCvMtU6Rkaao/view?usp=drive_link)
 
 
 
