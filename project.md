@@ -72,7 +72,7 @@ The main action button is the primary button on the left controller (X on Oculus
 
 You can project selected points onto a plane using the __trigger__ on the __right controller__. A red plane will appear in the direction of the controller. Planes are positioned at fixed points, and if the controller's ray intersects a mesh triangle, the projection plane aligns with that triangle's normal.
 
-![](./mp4video/MenuVR.mp4)
+![](./mp4video/MenuVr.mp4)
 
 ### Extrusion and Moving a Vertex
 
