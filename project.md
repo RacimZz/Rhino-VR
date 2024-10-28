@@ -35,7 +35,7 @@ Using Unity's "Input System" and "XR Interaction Toolkit", you can easily add ne
 
 Then, you can add your headset in the project settings under __Edit > Project Settings > XR Plug-in Management > OpenXR__, and add your headset profile to the list:
 
-[###Ajout de profi](https://drive.google.com/file/d/1RbFFQmMRAgZHLtS6iPNbCjkMNLoqtfv7/view?usp=drive_link)
+###[Ajout de profi](https://drive.google.com/file/d/1RbFFQmMRAgZHLtS6iPNbCjkMNLoqtfv7/view?usp=drive_link)
 
 Finally, you can modify (and assign new actions to) the mappings for ___Input Actions___. In the __Assets/Actions/__ folder, you can find and add __Input Actions__, which contain __Action Maps__. Each __Action Map__ holds several actions, and each action can be linked to multiple inputs. By specifying the input type (button, Vector2, etc.), you can easily set up new devices and interactions:
 <!--- video -->
