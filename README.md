@@ -25,7 +25,7 @@ This repository contains a series of video simulations that showcase:
 Each video is designed to provide a clear understanding of how the plugin operates and the potential it holds for designers, architects, and developers working in the field of 3D modeling and VR.  
 
 ## 🎥 Usage  
-Feel free to explore the videos to get insights into the plugin's capabilities. For those interested in the technical details or in contributing to the project, please refer to the main code repository [here](https://drive.google.com/drive/folders/1dvyUFiwMuhgVZudEV7qf73dHN3fY7AeW?usp=drive_link).  
+Feel free to explore the videos to get insights into the plugin's capabilities [here](https://drive.google.com/drive/folders/1dvyUFiwMuhgVZudEV7qf73dHN3fY7AeW?usp=drive_link).  
 
 ## 📜 License  
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.  
