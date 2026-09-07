@@ -18,9 +18,9 @@ The Rhino VR plugin aims to bring together Rhino’s advanced design tools and U
 ## Content  
 This repository contains a series of video simulations that showcase:  
 
-**Key features** of the Rhino VR plugin.  
-**Step-by-step demonstrations** of different functionalities within Unity.  
-**Use cases** highlighting how the integration can be utilized in real-world scenarios.  
+- **Key features** of the Rhino VR plugin.  
+- **Step-by-step demonstrations** of different functionalities within Unity.  
+- **Use cases** highlighting how the integration can be utilized in real-world scenarios.  
 
 Each video is designed to provide a clear understanding of how the plugin operates and the potential it holds for designers, architects, and developers working in the field of 3D modeling and VR.  
 
